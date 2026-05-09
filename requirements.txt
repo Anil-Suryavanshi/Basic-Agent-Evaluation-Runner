@@ -1,0 +1,11 @@
+gradio
+requests
+
+pandas
+huggingface_hub
+
+
+transformers
+torch
+accelerate
+sentencepiece
